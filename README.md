@@ -8,3 +8,4 @@ Faculty Mentor: Aaron Adalja
 
 This is our code from the AMS Local Food Economics Data Visualization Challenge
 
+Our data files are too large for Github so email: ljsobo@iastate.edu for the zip file with  everything
